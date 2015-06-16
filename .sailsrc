@@ -1,0 +1,9 @@
+"hooks": {
+  "session": false,
+  "sockets": false,
+  "pubsub": false,
+  "views": false,
+  "csrf": false,
+  "i18n": false,
+  "blueprints": false
+}

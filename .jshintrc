@@ -1,0 +1,4 @@
+{
+	"predef": ["require", "process", "User", "module", "console", "_", "sails", "Token", "ResetPassword", "before", "after", "describe", "it"],
+	"strict": false
+}
