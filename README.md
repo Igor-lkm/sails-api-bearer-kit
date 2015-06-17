@@ -11,7 +11,7 @@ $ sudo npm install sails -g
 
 2) Clone the project and get in
 ```
-$ git clone https://github.com/igor_likhomanov/sails-api-bearer-kit
+$ git clone https://github.com/Igor-lkm/sails-api-bearer-kit.git
 $ cd sails-api-bearer-kit
 ```
 
