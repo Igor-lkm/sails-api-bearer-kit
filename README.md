@@ -1,3 +1,7 @@
+Sails-api-bearer-kit
+==========
+[![Build Status](https://drone.io/github.com/Igor-lkm/sails-api-bearer-kit/status.png)](https://drone.io/github.com/Igor-lkm/sails-api-bearer-kit/latest)
+
 This is starter kit for API with Sails.js, passport-local, passport-bearer
 
 !!! IMPORTANT: Use at your own risk. This is pretty basic example. Have fun!
